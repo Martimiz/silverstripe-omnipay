@@ -1,5 +1,5 @@
 {
-	"name": "burnbright/silverstripe-omnipay",
+	"name": "Martimiz/silverstripe-omnipay",
 	"description": "SilverStripe Omnipay Payment Module",
 	"type": "silverstripe-module",
 	"license": "BSD-3-Clause",
